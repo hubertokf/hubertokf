@@ -39,6 +39,8 @@
 <img align="left" alt="Laravel" width="26px" src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" />
 <img align="left" alt="Wordpress" width="26px" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" />
 
+<br />
+
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Postgresql" width="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
