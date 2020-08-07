@@ -59,7 +59,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hubertokf&show_icons=true&hide_border=true" />
+<img align="left" alt="hubertokf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hubertokf&show_icons=true&hide_border=true" />
 
 [website]: https://hubertokf.com
 [elixirai]: https://elixirai.com.br/
