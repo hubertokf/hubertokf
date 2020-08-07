@@ -1,6 +1,6 @@
-### Hi there, I'm Huberto 👋
+## Hi there, I'm Huberto 👋
 
-## I'm a Developer, and passionate about technology!
+### I'm a Developer, and passionate about technology!
 - 🔭 I’m currently working on a [ElixirAi][elixirai]!
 - 🌱 I’m currently learning everything 🤣
 <!-- - 👯 I’m looking to collaborate with other content creators
