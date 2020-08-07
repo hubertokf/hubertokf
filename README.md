@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Huberto 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+## I'm a Developer, and passionate about technology!
+- 🔭 I’m currently working on a [ElixirAi][elixirai]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+<!-- - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to draw and play guitar / drums-->
 
 ### Connect with me:
 
@@ -59,6 +59,7 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hubertokf&show_icons=true&hide_border=true" />
 
 [website]: https://hubertokf.com
+[elixirai]: https://https://elixirai.com.br/
 [twitter]: https://twitter.com/hubertok
 [facebook]: https://www.facebook.com/hubertok
 [youtube]: https://youtube.com/codeSTACKr
