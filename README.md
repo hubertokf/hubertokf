@@ -21,32 +21,35 @@
 
 ### Languages and Tools:
 
-![Visual Studio Code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png | width=26)
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+![GitHub Logo](/images/logo.png)
 
-![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png | width=26)
-![Sass](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png | width=26)
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png | width=26)
-![Node.js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png | width=26)
-![aSails.jssdf](https://cdn.worldvectorlogo.com/logos/sails.svg | width=26)
-![Vue.js](https://cdn.worldvectorlogo.com/logos/vue-9.svg | width=26)
-![React.js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png | width=26)
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Sails.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/sails.svg" />
+<img align="left" alt="Vue" width="26px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-![Python](https://cdn.worldvectorlogo.com/logos/python-5.svg | width=26)
-![Django](https://cdn.worldvectorlogo.com/logos/django.svg | width=26)
+<img align="left" alt="Python" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
+<img align="left" alt="Django" width="26px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
 
-![PHP](https://cdn.worldvectorlogo.com/logos/php-1.svg | width=26)
-![Laravel](https://cdn.worldvectorlogo.com/logos/laravel-1.svg | width=26)
-![Wordpress](https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg | width=26)
+<img align="left" alt="PHP" width="26px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" />
+<img align="left" alt="Laravel" width="26px" src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" />
+<img align="left" alt="Wordpress" width="26px" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" />
 
-![MySQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png | width=26)
-![Postgresql](https://cdn.worldvectorlogo.com/logos/postgresql.svg | width=26)
-![MongoDB](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png | width=26)
+<!-- <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> -->
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Postgresql" width="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-![Terminal](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png | width=26)
-![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png | width=26)
-![GitHub](https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png | width=26)
-![Gitlab](https://cdn.worldvectorlogo.com/logos/gitlab.svg | width=26)
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Gitlab" width="26px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />
+
 
 ---
 
