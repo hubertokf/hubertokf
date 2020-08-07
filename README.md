@@ -45,17 +45,20 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Gitlab" width="26px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />
 
+<br/>
+<br/>
 
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hubertokf&show_icons=true&hide_border=true" />
 
 [website]: https://hubertokf.com
-[elixirai]: https://https://elixirai.com.br/
+[elixirai]: https://elixirai.com.br/
 [twitter]: https://twitter.com/hubertok
 [facebook]: https://www.facebook.com/hubertok
 [youtube]: https://youtube.com/codeSTACKr
