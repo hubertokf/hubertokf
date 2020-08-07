@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there, I'm Huberto 👋
 
 ## I'm a Developer, and passionate about technology!
