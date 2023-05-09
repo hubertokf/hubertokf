@@ -10,11 +10,7 @@
 ## Hi there, I'm Huberto 👋
 
 ### I'm a Developer, and passionate about technology!
-- 🔭 I’m currently working on a [ElixirAi][elixirai]!
-- 🌱 I’m currently learning everything 🤣
-<!-- - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums-->
+- 🔭 I’m currently working on [Planne](https://www.planne.com.br/)!
 
 ### Connect with me:
 
